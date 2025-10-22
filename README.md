@@ -1,6 +1,6 @@
 # 🌦️ Extraction de données météo avec Meteostat
 
-Ce projet permet d’extraire facilement les données météorologiques quotidiennes d’un lieu donné grâce à l’API **Meteostat**.
+Ce court projet permet d’extraire facilement les données météorologiques quotidiennes d’un lieu donné grâce à l’API **Meteostat**.
 
 ---
 
